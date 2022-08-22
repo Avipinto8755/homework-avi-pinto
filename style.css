@@ -1,0 +1,104 @@
+body {
+  direction: rtl;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+}
+.menu {
+  background-color: aliceblue;
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  margin: 60px;
+}
+a:hover {
+  color: rgb(223, 180, 102);
+}
+.logo {
+  width: 70px;
+}
+h1 {
+  background-image: url(./images/2281466.jpg);
+  background-repeat: no-repeat;
+  background-size: 100rem;
+  margin: 0;
+  color: rgb(0, 0, 0);
+  padding: 108px;
+  font-size: 50px;
+}
+.images {
+  margin-right: 200px;
+  background-color: yellow;
+}
+.top {
+  float: right;
+  padding: 40px;
+}
+.cake {
+  width: 300px;
+  height: 250px;
+}
+input {
+  position: absolute;
+  right: 45rem;
+}
+label {
+  position: absolute;
+  right: 40rem;
+}
+.contact {
+  background-image: url(./images/2281466.jpg);
+  padding-bottom: 5rem;
+  padding-top: 20px;
+  margin-bottom: 0;
+  color: rgb(255, 255, 255);
+}
+.contact-input {
+  margin: 50px;
+}
+.button-submit {
+  border-radius: 30px;
+  font-size: 17px;
+}
+.p1 {
+  margin: 120px;
+}
+.branches {
+  margin-bottom: 33rem;
+}
+.branch1 {
+  float: right;
+  padding: 40px;
+  margin: 90px;
+  background-color: rgb(237, 215, 160);
+  border-radius: 30px;
+}
+.contact-link-logo {
+  position: fixed;
+  width: 50px;
+  left: 10px;
+}
+
+footer {
+  clear: both;
+  height: 150px;
+  background-color: grey;
+}
+.f {
+  margin-right: 500px;
+}
+
+.f1 {
+  float: right;
+}
+
+.instegrm {
+  width: 30px;
+}
+.facebook {
+  width: 30px;
+}
